@@ -19,7 +19,7 @@ Xi'an Jiaotong-Liverpool University · 2nd Semester 2024–25
 | Dataset | Source | Access date | Key variables |
 |---------|--------|-------------|---------------|
 | `youth_unemployment_global.csv` | World Bank / ILO (via Kaggle) | April 2026 | Country, Year, YouthUnemployment (%) |
-| `Employment_Unemployment_GDP_data.csv` | World Bank Open Data (via Kaggle) | April 2025 | Country, Year, GDP (USD), Unemployment Rate (%), Employment sector shares (Agriculture / Industry / Services) |
+| `Employment_Unemployment_GDP_data.csv` | World Bank Open Data (via Kaggle) | April 2026 | Country, Year, GDP (USD), Unemployment Rate (%), Employment sector shares (Agriculture / Industry / Services) |
 
 Both files are included in this repository. Coverage spans **1991–2022** across up to **100+ countries** after merging and cleaning.
 
